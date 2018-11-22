@@ -1,4 +1,4 @@
-## This is a data visualization sample done using React.js and react-viz (by Uber).
+## This is a data visualization sample done using React.js and react-vis (by Uber).
 ## I have used github data to visualize the trend of Pull-request, for a programming language, over a period of time.
 
 
